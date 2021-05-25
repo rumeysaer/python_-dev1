@@ -1,0 +1,2 @@
+# python_ödev1
+ 
